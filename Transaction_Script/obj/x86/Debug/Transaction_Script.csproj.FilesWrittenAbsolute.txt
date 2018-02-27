@@ -1,0 +1,5 @@
+/home/opinno/Documentos/INFORMES/Transaction_Script/Transaction_Script/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/opinno/Documentos/INFORMES/Transaction_Script/Transaction_Script/bin/Debug/Transaction_Script.exe.mdb
+/home/opinno/Documentos/INFORMES/Transaction_Script/Transaction_Script/bin/Debug/Transaction_Script.exe
+/home/opinno/Documentos/INFORMES/Transaction_Script/Transaction_Script/obj/x86/Debug/Transaction_Script.exe
+/home/opinno/Documentos/INFORMES/Transaction_Script/Transaction_Script/obj/x86/Debug/Transaction_Script.exe.mdb

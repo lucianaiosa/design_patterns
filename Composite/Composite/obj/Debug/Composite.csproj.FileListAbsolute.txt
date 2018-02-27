@@ -1,0 +1,8 @@
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\obj\Debug\Composite.Properties.Resources.resources
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\obj\Debug\Composite.csproj.GenerateResource.Cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\bin\Debug\Composite.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\bin\Debug\Composite.pdb
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\obj\Debug\Composite.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Composite\Composite\Composite\obj\Debug\Composite.pdb

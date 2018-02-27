@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Strategy_Pattern/Strategy_Pattern.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Strategy_Pattern/Program.cs">
+    <Files>
+      <File FileName="Strategy_Pattern/Program.cs" Line="1" Column="14" />
+      <File FileName="Strategy_Pattern/Calculator.cs" Line="1" Column="1" />
+      <File FileName="Strategy_Pattern/ICalculate.cs" Line="1" Column="1" />
+      <File FileName="Strategy_Pattern/Adding.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

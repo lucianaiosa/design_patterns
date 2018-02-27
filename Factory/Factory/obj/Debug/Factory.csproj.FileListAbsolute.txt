@@ -1,0 +1,8 @@
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\bin\Debug\Factory.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\bin\Debug\Factory.pdb
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\obj\Debug\Factory.Properties.Resources.resources
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\obj\Debug\Factory.csproj.GenerateResource.Cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\obj\Debug\Factory.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Factory\Factory\Factory\obj\Debug\Factory.pdb

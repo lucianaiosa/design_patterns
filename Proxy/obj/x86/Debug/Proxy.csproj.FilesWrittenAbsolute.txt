@@ -1,0 +1,5 @@
+/home/opinno/Documentos/INFORMES/Patrones_diseño/Proxy/Proxy/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/opinno/Documentos/INFORMES/Patrones_diseño/Proxy/Proxy/bin/Debug/Proxy.exe.mdb
+/home/opinno/Documentos/INFORMES/Patrones_diseño/Proxy/Proxy/bin/Debug/Proxy.exe
+/home/opinno/Documentos/INFORMES/Patrones_diseño/Proxy/Proxy/obj/x86/Debug/Proxy.exe
+/home/opinno/Documentos/INFORMES/Patrones_diseño/Proxy/Proxy/obj/x86/Debug/Proxy.exe.mdb

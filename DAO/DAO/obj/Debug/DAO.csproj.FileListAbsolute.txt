@@ -1,0 +1,8 @@
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\bin\Debug\DAO.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\bin\Debug\DAO.pdb
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\obj\Debug\DAO.Properties.Resources.resources
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\obj\Debug\DAO.csproj.GenerateResource.Cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\obj\Debug\DAO.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\DAO\DAO\DAO\obj\Debug\DAO.pdb

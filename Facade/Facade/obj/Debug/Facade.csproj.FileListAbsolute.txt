@@ -1,0 +1,8 @@
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\bin\Debug\Facade.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\bin\Debug\Facade.pdb
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.Properties.Resources.resources
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.csproj.GenerateResource.Cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.exe
+W:\OneDrive\Escritorio\Lucia\Patrones de diseño\Facade\Facade\Facade\obj\Debug\Facade.pdb
